@@ -1,0 +1,4 @@
+com\indianheritage\HeritageBackendApplication.class
+com\indianheritage\controllers\UserController.class
+com\indianheritage\models\User.class
+com\indianheritage\repositories\UserRepository.class
